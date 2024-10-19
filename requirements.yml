@@ -1,0 +1,18 @@
+---
+roles:
+  - src: git@github.com:emmanuelcodes2020/ansible-role-cma-application.git
+    name: ansible-role-cma-application
+    scm: git
+    version: main
+
+  - src: git@github.com:emmanuelcodes2020/ansible-role-java.git
+    name: ansible-role-cma-app
+    scm: git
+    version: main
+
+
+
+
+
+
+  
