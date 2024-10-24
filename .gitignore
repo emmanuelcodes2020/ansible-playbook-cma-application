@@ -20,8 +20,6 @@ plan.out
 .LSOverride
 
 #Ansible
-*.retry
-ansible.cfg
 ansible.log
 
 # Ansible Vault
